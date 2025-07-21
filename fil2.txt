@@ -1,0 +1,4 @@
+create a wa callWd aws
+create two file in aws folder
+wr some contents
+push this wa to remote repository
